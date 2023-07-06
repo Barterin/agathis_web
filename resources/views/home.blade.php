@@ -109,6 +109,52 @@
     <!-- End Marquee -->
 
     {{-- Main Section --}}
+    <div class="main-section" style="margin: 0 110px">
+        {{-- Our Service --}}
+        <div class="row d-flex align-items-center" style="margin-top: 140px">
+            <div class="col-7">
+                <h1 style="font-size: 68px; font-weight: 700; margin-bottom: 56px">Our Services</h1>
+                <p style="font-size: 34px; font-weight: 500; margin-bottom: 92px">We showcase the comprehensive range of solutions that we
+                    offer to help you achieve your goals.</p>
+            </div>
+            <div class="col-5 d-flex justify-content-end">
+                <button style="background: #00704A; color: #fff; border: none; border-radius: 20px; padding: 30px 30px; font-size: 30px; font-weight: 700;">See Other Service</button>
+            </div>
+        </div>
+        <div class="row" style="margin-bottom: 140px">
+            <div class="col-6">
+                <a href="" style="text-decoration: none">
+                    <div class="card" style="border: none">
+                        <div class="card-body">
+                            <img src="assets/img/web.png" alt="" style="margin-bottom: 60px">
+                            <div class="card-title" style="margin-bottom: 56px">
+                                <h1 style="font-size: 68px; font-weight: 700;">Web Application</h1>
+                            </div>
+                            <div class="card-text">
+                                <p style="font-size: 28px; font-weight: 500;">A portfolio is a showcase of your work and achievements that demonstrate Our skills, expertise, and experience.</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-6">
+                <a href="" style="text-decoration: none">
+                    <div class="card" style="border: none">
+                        <div class="card-body">
+                            <img src="assets/img/uiux.png" alt="" style="margin-bottom: 60px">
+                            <div class="card-title" style="margin-bottom: 56px">
+                                <h1 style="font-size: 68px; font-weight: 700;">UI/UX Design</h1>
+                            </div>
+                            <div class="card-text">
+                                <p style="font-size: 28px; font-weight: 500;">UI/UX Design service focuses on creating visually appealing and user-friendly interfaces for websites and mobile apps.</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+        {{-- End Our Service --}}
+    </div>
     {{-- End Main Section --}}
 
     {{-- Footer Section --}}
