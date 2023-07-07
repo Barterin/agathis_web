@@ -113,7 +113,7 @@
         {{-- Our Service --}}
         <div class="row d-flex align-items-center" style="margin-top: 140px">
             <div class="col-7">
-                <h1 style="font-size: 68px; font-weight: 700; margin-bottom: 56px">Our Services</h1>
+                <h1 style="font-size: 68px; font-weight: 700; margin-bottom: 56px"><span style="color: #00704A">Our</span> Services</h1>
                 <p style="font-size: 34px; font-weight: 500; margin-bottom: 92px">We showcase the comprehensive range of solutions that we
                     offer to help you achieve your goals.</p>
             </div>
@@ -154,12 +154,36 @@
             </div>
         </div>
         {{-- End Our Service --}}
+
+        {{-- Our Portfolios --}}
+        <div class="row d-flex align-items-center" style="margin-top: 140px">
+            <div class="col-7">
+                <h1 style="font-size: 68px; font-weight: 700; margin-bottom: 56px"><span style="color: #00704A">Our</span> Portfolios</h1>
+                <p style="font-size: 34px; font-weight: 500; margin-bottom: 92px">We showcase the comprehensive range of solutions that we
+                    offer to help you achieve your goals.</p>
+            </div>
+            <div class="col-5 d-flex justify-content-end">
+                <button style="background: #00704A; color: #fff; border: none; border-radius: 20px; padding: 30px 30px; font-size: 30px; font-weight: 700;">See More</button>
+            </div>
+        </div>
+        <div class="row" style="margin-bottom: 140px">
+            <div class="col-7">
+                <img src="assets/img/barterin.png" alt="" width="100%">
+            </div>
+            <div class="col-5" style="padding-left: 40px">
+                <h1 style="font-size: 68px; font-weight: 700; margin-bottom: 75px">Barterin Mobile App</h1>
+                <p style="font-size: 34px; font-weight: 500; margin-bottom: 75px">Barterin redefines transactions through barter, eliminating the need for money. Discover a diverse marketplace, enjoy a seamless experience, and build trust with secure transactions.</p>
+                <button style="background: none; border: 5px solid #00704a; border-radius: 10px; padding: 20px 30px; font-size: 28px; font-weight: 700; margin-right: 40px">Mobile App</button>
+                <button style="background: none; border: 5px solid #00704a; border-radius: 10px; padding: 20px 30px; font-size: 28px; font-weight: 700;">Marketplace</button>
+            </div>
+        </div>
+        {{-- End Our Portfolios --}}
     </div>
     {{-- End Main Section --}}
 
     {{-- Footer Section --}}
     <div class="footer-section" style="background: #1b1b1b">
-        <footer class="row border-top" data-bs-theme="dark" style=" padding: 78px 130px">
+        <footer class="row border-top" data-bs-theme="dark" style=" padding: 78px 130px; margin-right: 0;">
             <div class="col-4 mb-3">
                 <div class="row">
                     <div class="col-2" style="margin-right: 20px">
