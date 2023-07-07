@@ -1,3 +1,16 @@
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(0,0,0,0);
+}
+
+::-webkit-scrollbar-thumb {
+  background: #00704A;
+  border-radius: 10px;
+}
+
 .marquee {
     --gap: 1rem;
     display: flex;

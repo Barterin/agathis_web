@@ -178,7 +178,125 @@
             </div>
         </div>
         {{-- End Our Portfolios --}}
+
+        {{-- Trusted Company --}}
+        <div class="row d-flex justify-content-center">
+            <div class="col-5 text-center">
+                <h1 style="font-size: 50px; font-weight: 700; margin-bottom: 52px">More than 3000 companies have <span style="color: #00704A">trusted us</span></h1>
+                <p style="font-size: 22px; font-weight: 500; margin-bottom: 85px; color: rgba(0, 0, 0,.5)">We are a team of passionate developers and designers who are
+                    dedicated to transforming ideas into visually stunning and
+                    immersive experiences that captivate and engage audiences.</p>
+            </div>
+        </div>
+            <div class="row d-flex flex-wrap" style="margin-bottom: 20px">
+                <div class="col-2">
+                    <div class="card" style="border: none; background: #F5F4F9; padding: 50px 62px; border-radius: 15px">
+                        <img src="assets/SVG/adobe.svg" alt="">
+                    </div>
+                </div>
+                <div class="col-2">
+                    <div class="card" style="border: none; background: #F5F4F9; padding: 50px 62px; border-radius: 15px">
+                        <img src="assets/SVG/adobe.svg" alt="">
+                    </div>
+                </div>
+                <div class="col-2">
+                    <div class="card" style="border: none; background: #F5F4F9; padding: 50px 62px; border-radius: 15px">
+                        <img src="assets/SVG/adobe.svg" alt="">
+                    </div>
+                </div>
+                <div class="col-2">
+                    <div class="card" style="border: none; background: #F5F4F9; padding: 50px 62px; border-radius: 15px">
+                        <img src="assets/SVG/adobe.svg" alt="">
+                    </div>
+                </div>
+                <div class="col-2">
+                    <div class="card" style="border: none; background: #F5F4F9; padding: 50px 62px; border-radius: 15px">
+                        <img src="assets/SVG/adobe.svg" alt="">
+                    </div>
+                </div>
+                <div class="col-2">
+                    <div class="card" style="border: none; background: #F5F4F9; padding: 50px 62px; border-radius: 15px">
+                        <img src="assets/SVG/adobe.svg" alt="">
+                    </div>
+                </div>
+            </div>
+            <div class="row d-flex flex-wrap" style="margin-bottom: 140px">
+                <div class="col-2">
+                    <div class="card" style="border: none; background: #F5F4F9; padding: 50px 62px; border-radius: 15px">
+                        <img src="assets/SVG/adobe.svg" alt="">
+                    </div>
+                </div>
+                <div class="col-2">
+                    <div class="card" style="border: none; background: #F5F4F9; padding: 50px 62px; border-radius: 15px">
+                        <img src="assets/SVG/adobe.svg" alt="">
+                    </div>
+                </div>
+                <div class="col-2">
+                    <div class="card" style="border: none; background: #F5F4F9; padding: 50px 62px; border-radius: 15px">
+                        <img src="assets/SVG/adobe.svg" alt="">
+                    </div>
+                </div>
+                <div class="col-2">
+                    <div class="card" style="border: none; background: #F5F4F9; padding: 50px 62px; border-radius: 15px">
+                        <img src="assets/SVG/adobe.svg" alt="">
+                    </div>
+                </div>
+                <div class="col-2">
+                    <div class="card" style="border: none; background: #F5F4F9; padding: 50px 62px; border-radius: 15px">
+                        <img src="assets/SVG/adobe.svg" alt="">
+                    </div>
+                </div>
+                <div class="col-2">
+                    <div class="card" style="border: none; background: #F5F4F9; padding: 50px 62px; border-radius: 15px">
+                        <img src="assets/SVG/adobe.svg" alt="">
+                    </div>
+                </div>
+            </div>
+        {{-- End Trusted Company --}}
     </div>
+
+    {{-- Testimonial --}}
+    <div class="testimonial" style="background: #1b1b1b; padding: 50px 110px 96px 110px; color: #fff;">
+        <img src="" alt="">
+        <h1 class="m-0" style="font-size: 146px; font-weight: 700; color: #00704A">“</h1>
+        <h1 style="font-size: 62px; font-weight: 500; padding-bottom: 72px">Agathis Solution expertise exceeded my expectations. They brought our vision to life with precision and creativity, delivering a stunning and user-friendly interface.</h1>
+        <div class="row">
+            <div class="col-4">
+                <div class="row">
+                    <div class="col-2">
+                        <img src="assets/img/profile.jpg" alt="" width="100%" style="border-radius: 100%">
+                    </div>
+                    <div class="col-10">
+                        <h1 class="m-0" style="font-size: 32px; font-weight: 500;">Miftakhul Rizky</h1>
+                        <p style="font-size: 22px; font-weight: 500; opacity: 50%;">CEO of Termicons</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4">
+
+            </div>
+        </div>
+    </div>
+    {{-- End Testimonial --}}
+
+    {{-- Contact Us --}}
+    <div class="contact-section" style="padding: 100px 110px">
+        <div class="card" style="border: none; background: #00704A; color: #fff; padding: 112px 95px; border-radius: 40px">
+            <div class="row d-flex align-items-center">
+                <div class="col-8">
+                    <h1 class="p-0" style="font-size: 82px; font-weight: 700; margin-bottom: 50px">Have a Wonderfull idea?</h1>
+                    <p class="m-0" style="font-size: 38px; font-weight: 500; opacity: 75%;">Let’s make your project a success together by
+                        harnessing our expertise and passion for
+                        delivering exceptional design solutions.</p>
+                </div>
+                <div class="col-4 d-flex justify-content-end">
+                    <button style="font-size: 28px; font-weight: 700; color: #00704A; background: #fff; padding: 20px 60px; border: none; border-radius: 50px">Let's Talk</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    {{-- End Contact Us --}}
+
     {{-- End Main Section --}}
 
     {{-- Footer Section --}}
@@ -197,9 +315,7 @@
                 </div>
             </div>
 
-            <div class="col-2">
-
-            </div>
+            <div class="col-2"></div>
 
             <div class="col-2 mb-3">
                 <h5 style="color: #fff; font-size: 26px">About</h5>
